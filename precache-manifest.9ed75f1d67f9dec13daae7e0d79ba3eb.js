@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e68614821826da635a6aea2924b64562",
+    "revision": "e9ee473e1ed069cb7ad4d167f08f694c",
     "url": "/TT-Yanpix/index.html"
   },
   {
-    "revision": "a15918437db897adbd40",
+    "revision": "c390ab5da48247f66d30",
     "url": "/TT-Yanpix/static/css/main.4e15bfb8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TT-Yanpix/static/js/2.ccb67523.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a15918437db897adbd40",
-    "url": "/TT-Yanpix/static/js/main.e104f50a.chunk.js"
+    "revision": "c390ab5da48247f66d30",
+    "url": "/TT-Yanpix/static/js/main.9e6a4b1b.chunk.js"
   },
   {
     "revision": "819a9fee96ef6b2b537a",
