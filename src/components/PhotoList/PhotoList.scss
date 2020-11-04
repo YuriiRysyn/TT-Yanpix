@@ -1,0 +1,52 @@
+.photo-list {
+  min-width: 50%;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #fff;
+  margin: 20px;
+
+  &__headling {
+    font-family: Grandstander;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  &__item {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0;
+
+    // &-img {
+    //   height: 500px;
+    //   width: 500px;
+    //   object-fit: cover;
+    // }
+
+    &-btn {
+      height: 40px;
+      width: 100px;
+      outline: none;
+      border-radius: 10px;
+      cursor: pointer;
+      margin: 20px;
+      background-color: #e9e6f2;
+
+      &-stats {
+        border: 2px solid #00f;
+      }
+
+      &-delete {
+        border: 2px solid #f00;
+      }
+    }
+  }
+
+  &__buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

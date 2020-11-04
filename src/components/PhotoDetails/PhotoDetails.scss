@@ -1,0 +1,33 @@
+.photo-details {
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #fff;
+  margin: 20px;
+  width: 100%;
+  position: relative;
+
+  &__content {
+    position: sticky;
+    top: 20px;
+  }
+
+  &__headling {
+    margin-bottom: 15px;
+    font-family: Grandstander;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    background: linear-gradient(to right, white 0%, #f6f6f6 47%, #fafafd 100%);
+  }
+}
