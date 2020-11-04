@@ -24,7 +24,7 @@ export const App = () => {
   const deleteItem = (itemId) => {
     setPhotoList(() => photoList.filter(item => item.id !==itemId));
 
-    if(selectedPhotoDetails.id === itemId) {
+    if(selectedPhotoDetails && selectedPhotoDetails.id === itemId) {
       setSelectedPhotoDetails(null);
     }
   };
