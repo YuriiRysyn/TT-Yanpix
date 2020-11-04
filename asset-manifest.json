@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TT-Yanpix/static/css/main.4e15bfb8.chunk.css",
+    "main.js": "/TT-Yanpix/static/js/main.e104f50a.chunk.js",
+    "main.js.map": "/TT-Yanpix/static/js/main.e104f50a.chunk.js.map",
+    "runtime-main.js": "/TT-Yanpix/static/js/runtime-main.656df6d0.js",
+    "runtime-main.js.map": "/TT-Yanpix/static/js/runtime-main.656df6d0.js.map",
+    "static/js/2.ccb67523.chunk.js": "/TT-Yanpix/static/js/2.ccb67523.chunk.js",
+    "static/js/2.ccb67523.chunk.js.map": "/TT-Yanpix/static/js/2.ccb67523.chunk.js.map",
+    "index.html": "/TT-Yanpix/index.html",
+    "precache-manifest.f29ddda92e8894f68bd0b403061fea97.js": "/TT-Yanpix/precache-manifest.f29ddda92e8894f68bd0b403061fea97.js",
+    "service-worker.js": "/TT-Yanpix/service-worker.js",
+    "static/css/main.4e15bfb8.chunk.css.map": "/TT-Yanpix/static/css/main.4e15bfb8.chunk.css.map",
+    "static/js/2.ccb67523.chunk.js.LICENSE.txt": "/TT-Yanpix/static/js/2.ccb67523.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/TT-Yanpix/static/media/SharpSansNo2Semibold.c90f75b9.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.656df6d0.js",
+    "static/js/2.ccb67523.chunk.js",
+    "static/css/main.4e15bfb8.chunk.css",
+    "static/js/main.e104f50a.chunk.js"
+  ]
+}
